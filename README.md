@@ -1,7 +1,7 @@
 # PersonalAI
 # J.A.R.V.I.S - Personal AI Assistant
 # Demonstration Video: 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7094312465060040704?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/posts/armaanaura_ai-personalassistant-python-activity-7094312527781642241-ixA5?utm_source=share&utm_medium=member_desktop
 ## Overview
 
 J.A.R.V.I.S is a Python-based personal AI assistant that leverages OpenAI's GPT-3 model for natural language understanding and generation. It can perform various tasks, including voice recognition, web browsing, time reporting, and engaging in conversations using artificial intelligence.
